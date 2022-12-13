@@ -1,0 +1,27 @@
+
+
+Service Provider
+
+View All News  Data Set Details,
+Search On News Data Set Details,
+View Fake News,
+Positive News, 
+Negative News,
+View News Accuracy,
+View News Results,
+View News Score Results,
+View All Remote Users,
+
+Remote User
+
+REGISTER AND LOGIN,
+POST NEWS DATA SETS,
+SEARCH ON NEWS DATA DETAILS,
+VIEW YOUR PROFILE.
+
+
+Members
+
+
+uname,gender,address,namesnews_subject,news_desc,news_date,
+posted_country,posted_medianews_Score,news_group,
